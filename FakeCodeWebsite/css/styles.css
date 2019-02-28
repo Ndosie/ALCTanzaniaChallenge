@@ -1,0 +1,30 @@
+.background-purple {
+    background-color: #8B008B;
+}
+.white-color{
+	color: #ffffff;
+}
+
+.purple-color{
+	color: #8B008B;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+   width: 1390px;
+}
+
+h1, h2, h3{
+	font-family: 'Philosopher', sans-serif;
+}
+
+a{
+	font-family: 'Philosopher', sans-serif;
+}
+a:hover{
+	color: #ffcb9a;
+	text-decoration: none;
+}
